@@ -6,10 +6,10 @@
 }
 body{
     background:url(background.jpg) no-repeat;
-    /* justify-content: center;
+     justify-content: center;
     display: flex;
     align-items: center;
-    min-height: 100vh; */
+    min-height: 100vh; 
 }
 .app{
     background: rgba(76, 171, 209, 0.651);
