@@ -23,10 +23,11 @@ body{
 }
 .app h1{
     font-size: 25px;
-    color: #021e4d;
+    color: #02204e;
     font-weight:600px;
     border-bottom: 1px solid #333;
     padding-bottom:30px;
+    text-shadow:-0px 2px black;
 
 }
 .app h3{
@@ -36,6 +37,7 @@ body{
     border-bottom: 1px solid #333;
    padding-top: 10px;
     padding-bottom:10px;
+    font-family:'comic';
 
 }
 
@@ -47,13 +49,13 @@ body{
 }
 .quiz h2{
     font-size: 18px;
-    color: #001e4d;
+    color: #021435;
     font-weight: 600;
 
 }
 .btn{
     background: white;
-    color: #222;
+    color: #000000;
     font-weight: 700;
     width: 100%;
     border: 1px solid #222;
