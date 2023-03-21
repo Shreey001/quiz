@@ -69,7 +69,7 @@ answers: [
 {
     question: "  What is the speed of sound?",
     answers: [
-        {text: "1200 km/h", correct: true},
+        {text: "1236 km/h", correct: true},
         {text: "120 km/h", correct: false},
         {text: "400 km/h", correct: false},
         {text: "700 km/h", correct: false},
