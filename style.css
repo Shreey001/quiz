@@ -38,6 +38,8 @@ body{
    padding-top: 10px;
     padding-bottom:10px;
     font-family:'comic';
+    text-shadow:-0px 2px black;
+
 
 }
 
@@ -49,8 +51,10 @@ body{
 }
 .quiz h2{
     font-size: 18px;
-    color: #000000;
+    color: #020222;
     font-weight: 600;
+    text-shadow:-0px 1px rgb(10, 76, 219);
+
 
 }
 .btn{
