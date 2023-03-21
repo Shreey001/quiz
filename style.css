@@ -23,7 +23,7 @@ body{
 }
 .app h1{
     font-size: 25px;
-    color: #02204e;
+    color: #f1f1f1;
     font-weight:600px;
     border-bottom: 1px solid #333;
     padding-bottom:30px;
@@ -49,7 +49,7 @@ body{
 }
 .quiz h2{
     font-size: 18px;
-    color: #021435;
+    color: #f0d5b3;
     font-weight: 600;
 
 }
